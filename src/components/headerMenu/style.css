@@ -1,0 +1,42 @@
+.menu_nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+
+}
+.opcoes {
+	display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.opcao {
+
+	font-size: 16px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	height: 100%;
+	padding: 0 5px;
+	cursor: pointer;
+	min-width: 120px;
+ 
+}
+  
+li {
+	list-style: none;
+}
+
+.icones{
+    display: flex;
+    
+}
+
+.icone{
+    margin-right: 20px;
+}
+
+.imagem_icone{
+
+}
